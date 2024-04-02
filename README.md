@@ -104,4 +104,12 @@
           </b>
         </sub>
       </td>
+          <td align="center">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="70px" alt="AndroidStudio icon"/><br>
+        <sub>
+          <b>
+            <pre>Android Studio</pre>
+          </b>
+        </sub>
+      </td>
   </tr>
